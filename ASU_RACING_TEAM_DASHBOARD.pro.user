@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 7.0.1, 2022-10-25T21:15:30. -->
+<!-- Written by QtCreator 7.0.1, 2022-10-25T21:17:35. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -247,6 +247,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/ASU Racing Team/GUI Project/build-ASU_RACING_TEAM_DASHBOARD-Desktop_Qt_5_15_2_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
