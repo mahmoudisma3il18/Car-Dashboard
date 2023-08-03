@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Images/52qaM5t-_400x400-removebg-preview.png</file>
+        <file>Images/Capture-removebg-preview.png</file>
+        <file>Images/car.png</file>
+        <file>Images/fsuk21_last_wan.218-removebg-preview.png</file>
+        <file>Images/images-removebg-preview.png</file>
+        <file>Images/mmm.png</file>
+        <file>Images/Picsart_22-05-19_17-22-35-286.png</file>
+        <file>Images/Screenshot_2022-03-04_101756-removebg-preview.png</file>
+        <file>Images/Steering wheel.png</file>
+    </qresource>
+</RCC>
