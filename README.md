@@ -1,5 +1,28 @@
-# Car-Dashboard
-This is virtual dashboard for formula student car owned by Ain Shams University Team ,this application shows all data collected by sensors of car ,data is received from car using telemetry and sending data to PC using UART Protocol 
+## Car Dashboard
+This is a virtual dashboard application for Ain Shams University's Formula Student car team. The application displays data collected from the car's sensors.
 
-![image](https://user-images.githubusercontent.com/103974340/197862088-59a972c4-1c8d-457b-9f78-e4430e3ce55e.png)
+The data is received from the car via telemetry and sent to the PC using a UART protocol.
+
+The application is built using Qt and QML.
+
+Code structure
+Qt project file
+The ASU_RACING_TEAM_DASHBOARD.pro file is the Qt project file. It contains information about the project's name, dependencies, configuration, etc.
+
+QML files
+The main.qml file is the main QML file that contains the dashboard UI in QML.
+
+The qml.qrc file is a resource file that contains images used in the QML UI.
+
+C++ files
+The communication_thread.cpp and communication_thread.h files contain the code for reading data from the UART connection. A separate thread is used for this.
+
+The controller.cpp and controller.h files contain business logic and functions to be called from QML.
+
+The main.cpp file contains the main function to start the Qt application.
+
+Build and run
+To build and run the project, you'll need Qt Creator installed. Then simply open the .pro file in Qt Creator and click Run.
+
+The dashboard will be displayed, however data will not be received yet since it's not connected to the car's telemetry system.
 
