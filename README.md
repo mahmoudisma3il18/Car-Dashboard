@@ -1,6 +1,9 @@
 ## Car Dashboard
 This is a virtual dashboard application for Ain Shams University's Formula Student car team. The application displays data collected from the car's sensors.
 
+![image](https://github.com/mahmoudisma3il18/Car-Dashboard/assets/103974340/02eaf98c-02ac-43e6-9082-b566abd2df4e)
+
+
 The data is received from the car via telemetry and sent to the PC using a UART protocol.
 
 The application is built using Qt and QML.
