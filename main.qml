@@ -983,6 +983,17 @@ Window {
         font.bold: true
     }
 
+    Text {
+        id: text14
+        x: 181
+        y: 106
+        color: "#bc3435"
+        text: qsTr("ASU Racing Team")
+        font.pixelSize: 40
+        font.bold: true
+        font.family: "Times New Roman"
+    }
+
 
 
 
@@ -1081,6 +1092,6 @@ Window {
 
 /*##^##
 Designer {
-    D{i:0;formeditorZoom:0.9}
+    D{i:0;formeditorZoom:0.5}
 }
 ##^##*/
